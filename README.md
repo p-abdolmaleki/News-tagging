@@ -1,4 +1,4 @@
-# News-tagging
+# News tagging
 
 - In this repository, we intend to tag the news based on the headline and description of the news in four classes.
 - We have built 6 models and tested each of them, and in the end, model-1, which is also a convolutional model, is more accurate. (It even performs better than the transformer and bidirectional models that we have taught).
